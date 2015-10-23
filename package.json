@@ -1,0 +1,23 @@
+{
+	"name"          : "GhostScript",
+	"description"   : "a GhostScript Wrapper without GhostScript requirements",
+	"version"       : "0.1.0",
+	"url"           : "https://github.com/klab-berlin/node-GhostScript",
+	"keywords"      : ["javascript"],
+	"author"        : "Paul Nordmann ",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Klab-Berlin/node-GhostScript.git"
+	},
+	"licenses"      : ["free"],
+	"dependencies"  : [],
+	"main"          : "./lib/index.js",
+	"scripts" : { 
+		"install" : "node ./install/postinstall.js"
+	},
+	"dependencies"	: {},
+	"devDependencies": {
+		"should": "6.x"
+	},
+	"engines"       : { "node": "> 0.6" }
+}
