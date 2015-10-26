@@ -17,7 +17,8 @@
 	},
 	"dependencies"	: {},
 	"devDependencies": {
-		"should": "6.x"
+		"should": "6.x",
+		"mocha": "latest"
 	},
 	"engines"       : { "node": "> 0.6" }
 }
