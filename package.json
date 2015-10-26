@@ -1,7 +1,7 @@
 {
 	"name"          : "GhostScript",
 	"description"   : "a GhostScript Wrapper without GhostScript requirements",
-	"version"       : "0.1.0",
+	"version"       : "0.1.1",
 	"url"           : "https://github.com/klab-berlin/node-GhostScript",
 	"keywords"      : ["javascript"],
 	"author"        : "Paul Nordmann ",
