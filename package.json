@@ -13,7 +13,7 @@
 	"dependencies"  : [],
 	"main"          : "./lib/index.js",
 	"scripts" : { 
-		"install" : "node ./install/postinstall.js"
+		
 	},
 	"dependencies"	: {},
 	"devDependencies": {
